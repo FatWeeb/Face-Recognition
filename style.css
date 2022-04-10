@@ -1,0 +1,22 @@
+body{
+    background: linear-gradient(#ee8888 0%,#f77979 25%, #f15d5d 50%, #f54c4c 75%,#f80b0b 100%);
+}
+.heading{
+    width: 80%;
+    font-size: 20px;
+}
+.object{
+    color: black;
+    font-family: cursive;
+}
+#camera{
+    border: 2px dashed white;
+    width: 350px;
+    height: 300px;
+}
+#results, #accuracy,p{
+    color: aliceblue;
+    font-size: 18px;
+    font-weight: bolder;
+    font-family: monospace;
+}
